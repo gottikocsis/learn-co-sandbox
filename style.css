@@ -1,0 +1,16 @@
+p {color: red;
+  font-size: 30px;
+}
+
+#greeting {
+  font-weight: bold;
+}
+/* a comment looks like this*/
+body { 
+  font-family: Trebuchet MS;
+  background-color: blue;
+}
+  
+  .facts {
+    background-color: green;
+  }
